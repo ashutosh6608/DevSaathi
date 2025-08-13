@@ -135,10 +135,8 @@ This is a portfolio project, but feedback and suggestions are always welcome! Fe
 
 ## 📧 Contact
 
-**Parshuram Bagade**
+**Ashutosh Agrahari**
 
-- GitHub: [@parshurambagade](https://github.com/parshurambagade)
-- Email: parshuram.dev@outlook.com
 
 ---
 
